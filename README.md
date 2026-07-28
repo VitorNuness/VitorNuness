@@ -3,15 +3,15 @@
 
 Graduado em Análise e Desenvolvimento de Sistemas, atuo no desenvolvimento de aplicações web robustas, escaláveis e eficientes.
 
-Atualmente, meu foco principal está no ecossistema PHP e JavaScript, utilizando ferramentas como Bootstrap, jQuery e MySQL para entregar soluções dinâmicas e de alta performance. Ao longo da minha trajetória profissional e acadêmica, construí uma base sólida que me permite transitar com facilidade entre diferentes arquiteturas e frameworks modernos, incluindo:
+Atuo principalmente no ecossistema PHP e JavaScript, utilizando ferramentas como Laravel, Bootstrap, jQuery e MySQL para entregar soluções dinâmicas e de alta performance. Ao longo da minha trajetória profissional e acadêmica, construí uma base sólida que me permite transitar com facilidade entre diferentes arquiteturas e frameworks modernos, incluindo:
 
-- Backend: Laravel, Livewire, .NET, Java e Spring Boot.
-- Frontend: React, Vue.js e Tailwind CSS.
-- DevOps & Qualidade: Práticas de CI/CD e testes automatizados com Pest.
+- Backend: .NET, Java e Spring Boot.
+- Frontend: React, Livewire, Vue.js, Inertia.js e Tailwind CSS.
+- DevOps & Qualidade: Práticas de CI/CD e testes automatizados.
 
-Além da bagagem com tecnologias modernas, possuo experiência na manutenção e evolução de sistemas legados complexos (envolvendo Java 6, SVN e integrações SOAP), o que me deu uma forte capacidade de resolução de problemas, adaptabilidade e entendimento técnico profundo.
+Também possuo experiência na manutenção e evolução de sistemas legados e complexos, o que me deu uma forte capacidade de resolução de problemas, adaptabilidade e entendimento técnico profundo.
 
-Mantenho-me em constante evolução para aplicar as melhores práticas de engenharia de software nos projetos em que atuo.
+Mantenho-me em constante evolução para trazer qualidade nos projetos em que atuo.
 
 [vitor1nuness@gmail.com](mailto:vitor1nuness@gmail.com) | [linkedin](https://linkedin.com/in/vitornunesdasilva) | [instagram](https://instagram.com/inuness01)
 
